@@ -7,5 +7,6 @@
   justify-content: space-between;
   align-items: stretch;
   flex-wrap: wrap;
+  z-index: 1;
   list-style: none;
 }
